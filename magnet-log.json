@@ -1,0 +1,6 @@
+{"updated":"2026-11-06T10:00:00+05:30","items":[
+{"material":"NdFeB","grade":"N35","form":"Disc","dimensions":"20 × 5 mm","stock":12500,"status":"AVAILABLE"},
+{"material":"NdFeB","grade":"N52","form":"Block","dimensions":"40 × 20 × 10 mm","stock":4200,"status":"AVAILABLE"},
+{"material":"Ferrite","grade":"Y30","form":"Disc","dimensions":"25 × 5 mm","stock":18000,"status":"AVAILABLE"},
+{"material":"Ferrite","grade":"Y35","form":"Ring","dimensions":"50 × 30 × 10 mm","stock":2100,"status":"LIMITED"},
+{"material":"SmCo","grade":"2:17","form":"Block","dimensions":"Custom","stock":null,"status":"REQUEST"}]}
